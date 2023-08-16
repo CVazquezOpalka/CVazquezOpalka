@@ -1,6 +1,6 @@
 Hola! Mi nombre es Cristian Miguel Vazquez Opalka
 También conocido como CVazquezOpalka en Github
-¿Quién soy?
+<h1>¿Quién soy?</h1>
 Soy un Programador fullstack orientado al diseño de Front-end y creación de material visual.
 
 Siempre me ha interesado el mundo de la programación. Mi primer lenguaje fue Javascript. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
