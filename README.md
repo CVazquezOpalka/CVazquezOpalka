@@ -1,4 +1,4 @@
-Hola! Mi nombre es Cristian Miguel Vazquez Opalka
+Hola! Mi nombre es **Cristian Miguel Vazquez Opalka**
 También conocido como CVazquezOpalka en Github
 <h1>¿Quién soy?</h1>
 Soy un Programador fullstack orientado al diseño de Front-end y creación de material visual.
@@ -15,17 +15,17 @@ Mi objetivo principal es potenciar mi aspecto creativo y poder plasmar mis ideas
 Las tecnologías que manejo son las siguientes:
 
   -Javascript
-  -React.js
-  -Node.js
+  *React.js
+  +Node.js
   -Express.js
-  -PostgreSQL
-  -Sequelize
+  *PostgreSQL
+  +Sequelize
   -Git
-  -Chakra UI
-  -Material UI
+  *Chakra UI
+  +Material UI
   -Styled Components
-  -SASS
-  -CSS module
+  *SASS
+  +CSS module
   -Firebase
 
 
