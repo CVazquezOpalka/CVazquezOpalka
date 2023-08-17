@@ -13,28 +13,28 @@ Mi objetivo principal es potenciar mi aspecto creativo y poder plasmar mis ideas
 
 <h1>¿Qué tecnologías uso?</h1>
 Las tecnologías que manejo son las siguientes:
-<ul>
-  <li>Javascript</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>PostgreSQL</li>
-  <li>Sequelize</li>
-  <li>Git</li>
-  <li>Chakra UI</li>
-  <li>Material UI</li>
-  <li>Styled Components</li>
-  <li>SASS</li>
-  <li>CSS module</li>
-  <li>Firebase</li>
-</ul>
 
-<h3>No dudes en contactarme!</h3>
+  -Javascript
+  -React.js
+  -Node.js
+  -Express.js
+  -PostgreSQL
+  -Sequelize
+  -Git
+  -Chakra UI
+  -Material UI
+  -Styled Components
+  -SASS
+  -CSS module
+  -Firebase
+
+
+**No dudes en contactarme!**
 
 Juntos podemos realizar grandes proyectos que cambien la vida de miles de personas!
 
-<p><b>Linkedin:</b> https://www.linkedin.com/in/cristian-miguel-vazquez-opalka-48b30346/</p>
+**Linkedin:** https://www.linkedin.com/in/cristian-miguel-vazquez-opalka-48b30346/
 
-<p><b>Correo:</b> cristianvazquez.dev@gmail.com</p>
+**Correo:** cristianvazquez.dev@gmail.com
 
-<p><b>Telefono de contacto:</b> +54 9 3888 314283</p>
+**Telefono de contacto:** +54 9 3888 314283
