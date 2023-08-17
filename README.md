@@ -13,22 +13,23 @@ Mi objetivo principal es potenciar mi aspecto creativo y poder plasmar mis ideas
 
 <h1>¿Qué tecnologías uso?</h1>
 Las tecnologías que manejo son las siguientes:
-
-  -Javascript
-  *React.js
-  +Node.js
+<ul>
+  -Javascript 
+  -React.js
+  -Node.js
   -Express.js
-  *PostgreSQL
-  +Sequelize
+  -PostgreSQL
+  -Sequelize
   -Git
-  *Chakra UI
-  +Material UI
+  -Chakra UI
+  -Material UI
   -Styled Components
-  *SASS
-  +CSS module
+  -SASS
+  -CSS module
   -Firebase
+</ul>
 
-
+  
 **No dudes en contactarme!**
 
 Juntos podemos realizar grandes proyectos que cambien la vida de miles de personas!
