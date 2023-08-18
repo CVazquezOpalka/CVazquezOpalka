@@ -11,13 +11,15 @@
 ---
 
 <h1>¿Quién soy?</h1>
-Soy un Programador fullstack orientado al diseño de Front-end y creación de material visual.
-Siempre me ha interesado el mundo de la programación. Mi primer lenguaje fue Javascript. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.
+
+<p>Soy un Programador fullstack orientado al diseño de Front-end y creación de material visual.
+Siempre me ha interesado el mundo de la programación. Mi primer lenguaje fue Javascript. Sin duda una de las experiencias más motivadoras fue mi acercamiento al código.</p>
 ---
-<h1>¿Qué hago?<h1>
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. **Me fascina poder encontrar la solución a los problemas de la vida con código**.
+<h1>¿Qué hago?</h1>h1>
+
+<p>Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. **Me fascina poder encontrar la solución a los problemas de la vida con código**.
 ¿A donde me dirijo?
-Mi objetivo principal es potenciar mi aspecto creativo y poder plasmar mis ideas en una aplicación. Me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que ya creíamos resueltos.
+Mi objetivo principal es potenciar mi aspecto creativo y poder plasmar mis ideas en una aplicación. Me apasiona ampliar mi perspectiva de las cosas que existen en el mundo y encontrar nuevas soluciones a problemas que ya creíamos resueltos.</p>
 
 ---
 
